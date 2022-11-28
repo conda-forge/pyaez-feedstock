@@ -25,6 +25,7 @@ requirements:
     - numba
     - scipy
     - gdal
+    - pandas
 
 test:
   imports:

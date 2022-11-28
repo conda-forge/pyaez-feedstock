@@ -151,4 +151,5 @@ Feedstock Maintainers
 =====================
 
 * [@iamtekson](https://github.com/iamtekson/)
+* [@kboonma](http://github.com/kboonma/)
 

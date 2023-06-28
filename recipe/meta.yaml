@@ -1,5 +1,5 @@
 {% set name = "PyAEZ" %}
-{% set version = "2.0.0" %}
+{% set version = "2.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 3d610ca6f7cec05f87422655943a7f7dabb851407e932bcbbdc51700964df5da
+  sha256: a6f9c4f4ad33b64d98bf6a0966a688c6dceae227e292f8bcb78aaf42b023f987
 
 build:
   noarch: python

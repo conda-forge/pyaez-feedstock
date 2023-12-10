@@ -1,11 +1,11 @@
-About pyaez
-===========
+About pyaez-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyaez-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/gicait/pyaez
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyaez-feedstock/blob/main/LICENSE.txt)
 
 Summary: PyAEZ is a python package consisted of many algorithms related to Agro-ecalogical zoning (AEZ) framework.
 
@@ -102,7 +102,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
@@ -152,5 +152,4 @@ Feedstock Maintainers
 
 * [@iamtekson](https://github.com/iamtekson/)
 * [@kboonma](https://github.com/kboonma/)
-
 
